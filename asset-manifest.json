@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-proyecto-ep2-ISIL/static/css/main.f7a78eba.css",
+    "main.js": "/react-proyecto-ep2-ISIL/static/js/main.1ec9d6ce.js",
+    "static/js/787.8dc381b6.chunk.js": "/react-proyecto-ep2-ISIL/static/js/787.8dc381b6.chunk.js",
+    "static/media/PROCESSOR.jpg": "/react-proyecto-ep2-ISIL/static/media/PROCESSOR.d1fb17d3f9adead78add.jpg",
+    "static/media/LAPTOP1.jpg": "/react-proyecto-ep2-ISIL/static/media/LAPTOP1.a1caa7cb3dae0c571067.jpg",
+    "static/media/WORKER.jpg": "/react-proyecto-ep2-ISIL/static/media/WORKER.4602d26a0b0d4206a543.jpg",
+    "static/media/PCB.jpeg": "/react-proyecto-ep2-ISIL/static/media/PCB.66055b9247ad2990899b.jpeg",
+    "static/media/AERIA2.jpeg": "/react-proyecto-ep2-ISIL/static/media/AERIA2.5703e574cb88f2f086b5.jpeg",
+    "static/media/AERIA1.jpeg": "/react-proyecto-ep2-ISIL/static/media/AERIA1.d676c1d3dfd7de4b95f0.jpeg",
+    "static/media/DRONE.jpg": "/react-proyecto-ep2-ISIL/static/media/DRONE.90d05b41b38ceabaaba5.jpg",
+    "static/media/AEREA.jpeg": "/react-proyecto-ep2-ISIL/static/media/AEREA.90b99f6dfb64d5c4c5e0.jpeg",
+    "static/media/WORLD.jpeg": "/react-proyecto-ep2-ISIL/static/media/WORLD.53023986f48467be9f2a.jpeg",
+    "static/media/AERIA3.jpeg": "/react-proyecto-ep2-ISIL/static/media/AERIA3.30d51663668f2d0edb6e.jpeg",
+    "static/media/FABRICA.jpeg": "/react-proyecto-ep2-ISIL/static/media/FABRICA.eb450004bc2dd6a2dfbf.jpeg",
+    "static/media/MAP.jpeg": "/react-proyecto-ep2-ISIL/static/media/MAP.46a0623ab73089d61700.jpeg",
+    "static/media/LAPTOP1.jpeg": "/react-proyecto-ep2-ISIL/static/media/LAPTOP1.37efd6e3c88ef7cf5ca1.jpeg",
+    "static/media/WORKER1.jpeg": "/react-proyecto-ep2-ISIL/static/media/WORKER1.b9236687fc23d60cfbca.jpeg",
+    "static/media/KEYBOARD.jpeg": "/react-proyecto-ep2-ISIL/static/media/KEYBOARD.2de5e2f4cb195f5ea080.jpeg",
+    "static/media/DJI-PICTURE.jpeg": "/react-proyecto-ep2-ISIL/static/media/DJI-PICTURE.5dd1a630555961f967ca.jpeg",
+    "static/media/LAPTOP.jpeg": "/react-proyecto-ep2-ISIL/static/media/LAPTOP.0901fd72ec43b2481ff5.jpeg",
+    "static/media/world-nanotechworld.svg": "/react-proyecto-ep2-ISIL/static/media/world-nanotechworld.83ca555cc5b083999fca052c2167b186.svg",
+    "index.html": "/react-proyecto-ep2-ISIL/index.html",
+    "static/media/nanotechworld.svg": "/react-proyecto-ep2-ISIL/static/media/nanotechworld.ad1f931852c24cc0e1d764e9a4e709fc.svg",
+    "main.f7a78eba.css.map": "/react-proyecto-ep2-ISIL/static/css/main.f7a78eba.css.map",
+    "main.1ec9d6ce.js.map": "/react-proyecto-ep2-ISIL/static/js/main.1ec9d6ce.js.map",
+    "787.8dc381b6.chunk.js.map": "/react-proyecto-ep2-ISIL/static/js/787.8dc381b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a78eba.css",
+    "static/js/main.1ec9d6ce.js"
+  ]
+}
