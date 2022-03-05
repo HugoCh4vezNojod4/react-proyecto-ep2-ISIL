@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-proyecto-ep2-ISIL/static/css/main.f7a78eba.css",
-    "main.js": "/react-proyecto-ep2-ISIL/static/js/main.1ec9d6ce.js",
+    "main.js": "/react-proyecto-ep2-ISIL/static/js/main.acd2e212.js",
     "static/js/787.8dc381b6.chunk.js": "/react-proyecto-ep2-ISIL/static/js/787.8dc381b6.chunk.js",
     "static/media/PROCESSOR.jpg": "/react-proyecto-ep2-ISIL/static/media/PROCESSOR.d1fb17d3f9adead78add.jpg",
     "static/media/LAPTOP1.jpg": "/react-proyecto-ep2-ISIL/static/media/LAPTOP1.a1caa7cb3dae0c571067.jpg",
@@ -24,11 +24,11 @@
     "index.html": "/react-proyecto-ep2-ISIL/index.html",
     "static/media/nanotechworld.svg": "/react-proyecto-ep2-ISIL/static/media/nanotechworld.ad1f931852c24cc0e1d764e9a4e709fc.svg",
     "main.f7a78eba.css.map": "/react-proyecto-ep2-ISIL/static/css/main.f7a78eba.css.map",
-    "main.1ec9d6ce.js.map": "/react-proyecto-ep2-ISIL/static/js/main.1ec9d6ce.js.map",
+    "main.acd2e212.js.map": "/react-proyecto-ep2-ISIL/static/js/main.acd2e212.js.map",
     "787.8dc381b6.chunk.js.map": "/react-proyecto-ep2-ISIL/static/js/787.8dc381b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7a78eba.css",
-    "static/js/main.1ec9d6ce.js"
+    "static/js/main.acd2e212.js"
   ]
 }
