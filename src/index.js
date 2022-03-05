@@ -1,13 +1,26 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.min.js';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Navbar from './common/Navbar';
+import Footer from './common/Footer';
+import Cards from './newsan-ushuaia/Cards';
+import Table from './drone/Table';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <Navbar/>
+    <Routes>
+      <Route path='/' element={<App/>}/>
+      <Route path='trabajadores' element={<Cards/>}/>
+      <Route path='proveedores' element={<Table/>}/>
+    </Routes>
+    <Footer/>
+  </BrowserRouter>,
   document.getElementById('root')
 );
 

@@ -1,0 +1,30 @@
+footer{
+    background-color: #f0f0f0;
+    padding: 5em 0em;
+}
+
+.footer a:hover {
+    color: #c1c1c1;
+}
+
+footer a {
+    color: black;
+    margin-left: 20px;
+}
+
+.icons {
+    color: black;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.footer-s-c{
+    text-align: right;
+}
+footer p {
+    line-height: 7px;
+}

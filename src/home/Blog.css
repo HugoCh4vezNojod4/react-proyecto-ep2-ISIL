@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&family=Work+Sans&display=swap');
+
+h5, h6 {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+    color: #333;
+    text-transform: none;
+    font-size: 16pt;
+}

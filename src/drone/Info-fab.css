@@ -1,0 +1,12 @@
+.bg-cover{
+    background-size: cover;
+    width: auto;
+    height: 800px;
+    margin-top: 3em;
+}
+.padd{
+    padding: 1em;
+}
+#Fotos{
+    margin-bottom: 5em;
+}

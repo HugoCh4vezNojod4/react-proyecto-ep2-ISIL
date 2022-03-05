@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&family=Work+Sans&display=swap');
+
+.carousel-caption{
+    margin-bottom: 150px;
+}
+
+#c1 {
+    margin-bottom: 45em;
+}
+
+#c2 {
+    margin-bottom: 30em;
+    margin-right: 60em;
+}
+
+#c3 {
+    margin-bottom: 10em;
+} 
+
+#c4 {
+    margin-bottom: 12em;
+}
+
+h1 {
+    font-size: 43pt;
+    color: black;
+}
+
+section.slider {
+    padding: 0;
+}

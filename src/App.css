@@ -1,38 +1,153 @@
-.App {
-  text-align: center;
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,500,300);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,700);
+*{
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    box-sizing:border-box
+}
+::-moz-selection{
+    background:#2e2e2e;
+    color:#eee
+}
+::selection{
+    background:#2e2e2e;
+    color:#eee
+}
+a:active,a:focus,a:hover,input:active,input:focus,input:hover,textarea:active,textarea:focus,textarea:hover{
+    outline:0
+}
+body{
+    font-family:Roboto Mono,Helvetica Neue,sans-serif;
+    font-weight:300
+}
+h1,h2,h3,h4,h5,h6{
+    font-family:Work Sans,Helvetica Neue,sans-serif
+}
+@media screen and (max-width:768px){
+    h1{
+        font-size:2.3em
+    }
+}
+.copyright,p{
+    font-weight:300;
+    font-size:.95em;
+    line-height:1.9
+}
+.copyright a,p a{
+    font-weight:700;
+    color:#2e2e2e
+}
+h1{
+    font-size:3em
+}
+h2{
+    font-family:Roboto Mono,Helvetica Neue,sans-serif;
+    font-size:2.2em;
+    margin:10px 0 25px
+}
+h3{
+    font-size:1.7em;
+    margin-top:0
+}
+h4{
+    font-size:1.3em;
+    margin-bottom:10px;
+    font-family:Roboto Mono,Helvetica Neue,sans-serif
+}
+h5{
+    text-transform:uppercase
+}
+h5,h6{
+    font-size:1em
+}
+header .content,section.content,section .content{
+    line-height:2
+}
+header .content h1,section.content h1,section .content h1{
+    margin-bottom:37px
+}
+header .content p,section.content p,section .content p{
+    margin-bottom:50px;
+    line-height:1.8
+}
+header .content p:last-child,section.content p:last-child,section .content p:last-child{
+    margin-bottom:0
+}
+header .content p a,section.content p a,section .content p a{
+    color:#2e2e2e;
+    font-weight:700;
+    border-bottom:1px solid #2e2e2e
+}
+header .content p a.btn,section.content p a.btn,section .content p a.btn{
+    border:0
+}
+header .content p a.btn.btn-hollow,section.content p a.btn.btn-hollow,section .content p a.btn.btn-hollow{
+    border:1px solid
+}
+header .content p a:active,header .content p a:focus,header .content p a:hover,section.content p a:active,section .content p a:active,section.content p a:focus,section .content p a:focus,section.content p a:hover,section .content p a:hover{
+    opacity:.5;
+    text-decoration:none
+}
+.hero .content p{
+    margin-bottom:10px
+}
+h1.lg{
+    font-size:5em
+}
+@media screen and (max-width:768px){
+    h1.lg{
+        font-size:2.5em
+    }
+}
+#wrapper{
+    padding:0;
+    overflow-x:hidden
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#logo {
+    height: 75px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+header {
+    box-shadow: 1px 0 1px rgb(0 0 0 / 20%);
+    position: absolute;
+    display: inline-block;
+    width: 100%;
+    z-index: 4;
+    height: 100vh;
+    -webkit-transition: all .3s;
+    transition: all .3s;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+/*Carousel Section*/
+
+.carousel-caption {
+    margin-bottom: 25%;
 }
 
-.App-link {
-  color: #61dafb;
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Work Sans', sans;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+p {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 100;
+    color: #333;
+}
+
+table {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 100;
+    color: #333; 
+}
+
+section {
+    padding: 135px 0;
+    vertical-align: top;
+}
+
+a{
+    text-decoration: none;
 }
